@@ -1,4 +1,12 @@
 pandas 
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+xgboost
+plotly
+category_encoders
+bs4
+requests
+nbformat
+#-e .
