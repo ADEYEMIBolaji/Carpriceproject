@@ -9,4 +9,5 @@ category_encoders
 bs4
 requests
 nbformat
+dill
 #-e .
